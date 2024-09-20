@@ -1,3 +1,7 @@
-/data/historical_product_demand.csv
+historical_product_demand.csv
 
-/data/london_energy.csv
+london_energy.csv
+
+cisco_demand_datapack.csv
+
+supchains_competition/
